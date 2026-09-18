@@ -42,9 +42,6 @@ Développer le logiciel de navigation autonome du DD-Boat, en couvrant :
 
 La **DD-Regatta** elle-même se déroule au grand bassin de l'ENSTA (sessions des 18 et 21 mai), une heure par équipe.
 
-### 📌 État du dépôt
-
-🚧 Ce dépôt est un point de départ : le code (simulateur, calibration, lois de commande) sera ajouté au fil de l'avancement du cours et des jalons validés.
 
 ---
 
@@ -80,6 +77,3 @@ Develop the DD-Boat's autonomous navigation software, covering:
 
 The **DD-Regatta** itself takes place in ENSTA's main pool (sessions on May 18 and 21), one hour per team.
 
-### 📌 Repository status
-
-🚧 This repository is a starting point: the code (simulator, calibration, control laws) will be added as the course progresses and milestones are completed.
